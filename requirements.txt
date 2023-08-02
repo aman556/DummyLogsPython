@@ -1,0 +1,4 @@
+opentelemetry-instrumentation
+opentelemetry-exporter-otlp
+opentelemetry-api
+opentelemetry-sdk
